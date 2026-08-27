@@ -4,7 +4,7 @@ go 1.26.5
 
 require (
 	github.com/agiledragon/gomonkey/v2 v2.14.2
-	github.com/emmansun/gmsm v0.27.0
+	github.com/emmansun/gmsm v0.41.1
 	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.42.1
 	golang.org/x/crypto v0.53.0
